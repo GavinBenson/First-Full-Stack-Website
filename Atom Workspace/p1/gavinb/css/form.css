@@ -1,0 +1,72 @@
+body {
+	background-image: url("../images/mc1.jpg");
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: #FF00FF;
+	font-family: 'Atomic Age', cursive;
+	text-shadow: 2px 2px #ff0000;
+}
+
+h2 {
+	text-align: center;
+	color: #0000FF;
+	font-family: 'Vollkorn SC', serif;
+	text-shadow: 2px 2px #ff0000;
+}
+
+h3 {
+	text-align: center;
+	color: #000066;
+	font-family: 'Atomic Age', cursive;
+}
+
+h4 {
+	color: #FF0000;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+hr {
+	border-width: 3px;
+	border-color: #551a8b;
+	border-style: solid;
+}
+input {
+	background-color: #d677ff;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#gay {
+	background-image: url("../images/mc1.jpg");
+}
+
+#gay2 {
+	background-image: url("../images/mc1.jpg");
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+/*
+ * 
+ * 
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Vollkorn SC', serif;
+
+    font-family: 'Roboto Slab', serif;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+
+    font-family: 'Atomic Age', cursive;
+
+    font-family: 'Titillium Web', sans-serif;
+
+
+ */
